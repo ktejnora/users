@@ -1,0 +1,20 @@
+# Eclipse
+.metadata
+.classpath
+.project
+.settings/
+.factorypath
+.springBeans
+# Intellij
+.idea/
+*.iml
+*.iws
+*.class
+# Mac
+.DS_Store
+# Maven
+target/
+# Netbeans
+nb-configuration.xml
+#Spring boot
+main.log
