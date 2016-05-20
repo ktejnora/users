@@ -18,3 +18,4 @@ target/
 nb-configuration.xml
 #Spring boot
 main.log
+/.apt_generated/
